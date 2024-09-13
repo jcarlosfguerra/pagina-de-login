@@ -40,6 +40,12 @@ body{
     border-radius: 7px;
 
 }
+a{
+    width: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 .card .input{
     width: 90%;
@@ -64,7 +70,7 @@ body{
     border: none;
     background: blue;
     padding: 10px;
-    border-radius: 5px;
+    border-radius: 10px;
     color: #fff;
     margin-top: 50px;
     font-weight: bold;
